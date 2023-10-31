@@ -12,3 +12,5 @@ Ao concluir esta atividade você deverá estender sua compreensão os seguintes 
 Faça um fork deste repositorio e realize as seguintes atividades: 
 
 - [ ] Complemente a função removerElementoArvore Arvore que deve remover um elemento da arvore mantendo suas propriedades.Você deve implementar os casos de remoção de elementos sem filhos e com apenas um filho
+
+Email institucional: vitor.dias8@fatec.sp.gov.br
